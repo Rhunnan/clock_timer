@@ -171,7 +171,7 @@ class _CountdownTimerDemoState extends State<_ClockTimer> {
               child: const Text("Submit Answer"),
             ),
             Padding(
-              padding: const EdgeInsets.only(left: 0),
+              padding: const EdgeInsets.only(left: 320),
               child: Row(
                 children: [
                   const SizedBox(height: 20),
